@@ -8,8 +8,8 @@ Developed By: Arjun Rao and Mudit Chaudhary - The Chinese University of Hong Kon
  
  <img src="https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/16073.jpg" width="150" align = "centre" /> <img src="https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/17476.jpg" width="150" align = "left" /> <img src="https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/55556.jpg" width="150" align = "left" /> <img src="https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/21103.jpg" width="150" align = "left" /> <img src="https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/6339.jpg" width="150" align = "left" /> 
 
- 
-## Solution used : Deep Residual Network with Transfer Learning (ResNet-50)
+</br></br>
+## Solution used - Deep Residual Network with Transfer Learning (ResNet-50)
 ### Data augmenation was used to enhance
 * Random rotations with range 40 degrees
 * Height and width shift
