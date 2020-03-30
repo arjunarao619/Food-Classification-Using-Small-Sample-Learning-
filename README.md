@@ -7,12 +7,7 @@ Developed By: Arjun Rao and Mudit Chaudhary - The Chinese University of Hong Kon
  * 25 small categories - containing 5 images per category
  
  <img src="https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/16073.jpg" width="150" align = "centre" /> <img src="https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/17476.jpg" width="150" align = "left" /> <img src="https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/55556.jpg" width="150" align = "left" /> <img src="https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/21103.jpg" width="150" align = "left" /> <img src="https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/6339.jpg" width="150" align = "left" /> 
- 
-![alt text](https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/16073.jpg)
-![alt text](https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/17476.jpg)
-![alt text](https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/21103.jpg)
-![alt text](https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/55556.jpg)
-![alt text](https://github.com/arjunarao619/Food-Classification-Using-Small-Sample-Learning-/blob/master/contest_docs/6339.jpg)
+
  
 # Solution used : Deep Residual Network with Transfer Learning (ResNet-50)
 
